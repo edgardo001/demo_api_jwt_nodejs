@@ -1,0 +1,20 @@
+{
+  "name": "demo_api_jwt_nodejs",
+  "version": "1.0.0",
+  "description": "demo para creacion de tokens JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "ES"
+  ],
+  "author": "edgardo001",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "nodemon": "^1.11.0"
+  }
+}
